@@ -1,0 +1,26 @@
+
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 700;
+    background: url(../../../Imagens/Sales/back\ h1.avif);
+}
+.P1{
+    text-align: center;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+body{
+    background: url(../../../Imagens/Sales/back\ bolo.jpeg);
+}
+.Opcional{
+    color: blue;
+}
+.Obrigatorio{
+    color: rgba(8, 136, 8, 0.84);
+}
+li{
+    font-size: larger;
+}
